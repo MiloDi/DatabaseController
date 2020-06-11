@@ -1,7 +1,7 @@
 import csv
 import psycopg2
 import sys
-import getpass
+
 import db_context_mgr
 
 class csv_mgr:     
